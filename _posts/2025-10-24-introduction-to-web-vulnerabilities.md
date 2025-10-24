@@ -3,6 +3,10 @@ title: "Introduction to web Vulnerabilities"
 date: 2025-10-24 10:37:00 +0300
 categories: [Cybersecurity, Web]
 tags: [xss, sql-injection, csrf]
+image:
+path: /assets/sqlinjection.png
+width: 1200
+height: 630
 ---
 
 Web vulnerabilities are common entry points for attackers, In this post we'll explore **Sql-Injection** and **XSS* -- two of the OWASP top 10.
