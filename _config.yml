@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Adonijah Kiplimo" # the main title
+title: Adonijah Kiplimo # the main title
 
-tagline: "Cybersecurity Analyst | Pentester | CTFs | Data Analyst | AI" # it will display as the subtitle
+tagline: Cybersecurity Analyst | Pentester | CTFs | Data Analyst | AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 My journey and projects in Infosec, AI, and Digital Forensics.
