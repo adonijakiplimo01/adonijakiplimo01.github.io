@@ -10,6 +10,8 @@ image:
 ---
 ## Why I Built This Lab
 To truly understand  **Network Security**, I decided to move away from local VMs and Deploy a dedicated environment on **GCP AZURE and AWS** 
+![Desktop View](/assets/awsgcpazure.jpg)
+_This is the caption that appears centered under the image_
 
 ### Thee Architecture
 I am currently running on **Ubuuntu 22.04** instance named *lab1*. My goals for this setup Include:
