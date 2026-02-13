@@ -3,6 +3,7 @@ title: Setting Up My Cloud Security Lab on GCP, Azure, and AWS.
 date: 2026-02-13 10:07:00 +0300
 categories: [Cloud, Lab-Setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, gcp, aws, azure]
+pin: true
 image:
   path: /assets/awsgcpazure.jpg
   alt: A feature image for awsgcpazure.
